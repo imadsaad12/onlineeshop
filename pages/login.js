@@ -37,6 +37,8 @@ function Login() {
   }
 
   return <>
+     <h1>Email:admin@gmail.com</h1>
+     <h1>password:123456789</h1>
     <Message 
     attached
     header="Welcome back !"
